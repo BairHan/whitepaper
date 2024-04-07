@@ -6,9 +6,9 @@
 
 </div>
 
-&#x20;                                       Symbol: PROC                                    Network: Polygon (Matic)
+&#x20;                                       Symbol: PROC                                    Network: PROC
 
-&#x20;                                       Standard: ERC-20                              Total Supply: 1,000,000,000
+&#x20;                                       Standard: BEP-20                              Total Supply: 200 000 000
 
 Contract:&#x20;
 

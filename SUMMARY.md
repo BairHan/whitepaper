@@ -9,7 +9,7 @@
     * [1.1 Token use cases](overview/1.-introduction/1.1-proc-details/1.1-token-use-cases.md)
   * [1.2 Token support](overview/1.-introduction/1.2-token-support.md)
   * [1.3 Charity fund](overview/1.-introduction/1.3-charity-fund.md)
-  * [1.4 Platform PROCecoverse](overview/1.-introduction/1.4-platform-procecoverse.md)
+  * [1.4 Platform PROC](overview/1.-introduction/1.4-platform-proc.md)
 * [2. Ecosystem components](overview/2.-ecosystem-components/README.md)
   * [2.0 Blockhain](overview/2.-ecosystem-components/2.0-blockhain.md)
   * [2.1 PROC Wallet](overview/2.-ecosystem-components/2.1-proc-wallet.md)
